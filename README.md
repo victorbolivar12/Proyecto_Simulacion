@@ -26,4 +26,5 @@ Ya para la segunda entrega se planea implementar modelos de inteligencia artific
  - [x] Eliminación de archivos múltiples
  - [x] Modo Oscuro
  - [x] Drag Drop Upload
-
+ 
+Sitio disponible en: https://victorbolivar12.github.io/Proyecto_Simulacion/
