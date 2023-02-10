@@ -1,5 +1,7 @@
 # Startup Gavi 
-![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+<p align="center">
+  <img src="https://github.com/victorbolivar12/Proyecto_Simulacion/blob/main/img/logo_Garvi.jpeg" alt="Logo_Empresa">
+</p>
 
 ## DESCRIPCION DE LA EMPRESA
 El Startup Garvi, es una empresa que ofrece servicios de Cloud Computing para soluciones dedicadas a la ciencia de datos y Machine Learning, que tiene como objetivo el almacenamiento, procesamiento, y limpieza de datos para generar modelos predictivos para impulsar el crecimiento de su empresa.
